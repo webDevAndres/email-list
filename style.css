@@ -1,0 +1,26 @@
+body {
+  background: #2980B9;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #d7fafa, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #d7fafa, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+main {
+  width: 80%;
+  margin: 5% auto;
+  padding: 2.5%;
+  border: 5px black solid;
+  color: #2980B9;
+  text-shadow: 1px 1px 2px rgb(255, 255, 255);
+  letter-spacing: 3px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  margin-top: 5%;
+  padding-bottom: 5%;
+}
+
+span {
+	color: rgb(255, 0, 0);
+}
+
