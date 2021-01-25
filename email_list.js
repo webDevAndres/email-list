@@ -42,8 +42,6 @@ var processList = function() {
     var firstName = $("first_name").value;
     var isValid = validateEntries(emailAddress1, emailAddress2, firstName);
 
-    
-
     if (isValid) {
         // use the submit method of the form object to submit the form
         $("email_form").submit();
